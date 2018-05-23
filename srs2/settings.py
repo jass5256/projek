@@ -37,6 +37,7 @@ DATABASES = {
     }
 }
 
+#test
 
 # Application definition
 
